@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div class="header">
+</div>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+<link rel="stylesheet" href="styles.css">
+<ul>
+  <li><a href="profile.html">About me</a></li>
+  <li><a href="alaska.html">All about Alaska</a></li>
+  <li><a href="cuba.html">Can't believe I went to Cuba</a></li>
+  <li><a href="SouthDakota.html">Special memories of South Dakota</a></li>
+</ul>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4108.jpeg">
+    <img src="IMG_4108.jpeg" alt="famAlaska2019" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4119.jpeg">
+    <img src="IMG_4119.jpeg" alt="4119" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4185.JPG">
+    <img src="IMG_4185.JPG" alt="4185" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4214.jpeg">
+    <img src="IMG_4214.jpeg" alt="4214" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4215.JPG">
+    <img src="IMG_4215.JPG" alt="4215" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4217.jpeg">
+    <img src="IMG_4217.jpeg" alt="4217" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_3992.jpeg">
+    <img src="IMG_3992.jpeg" alt="3992" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4218.jpeg">
+    <img src="IMG_4218.jpeg" alt="4218" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4220.jpeg">
+    <img src="IMG_4220.jpeg" alt="4220" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4221.JPG">
+    <img src="IMG_4221.JPG" alt="4221" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_3935.JPG">
+    <img src="IMG_3935.JPG" alt="3935" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4097.jpeg">
+    <img src="IMG_4097.jpeg" alt="4097" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_4103.jpeg">
+    <img src="IMG_4103.jpeg" alt="4103" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="IMG_3853.jpeg">
+    <img src="IMG_3853.jpeg" alt="3853" width="800" height="600">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</body>
+</html>
